@@ -1,0 +1,11 @@
+__pycache__
+.idea
+.ipynb_checkpoints
+main.py
+tweeppy.py
+geckodriver.log
+Credentials
+DataUsername
+username_generator
+user_name_save.txt
+mail.py
